@@ -1,0 +1,14 @@
+layout_spectrum: 0.14194354764185846
+typography_spectrum: 0.28130740975029767
+color:
+  brandStrength: 0.8019042611122131
+  lightness: 0.24678320274688303
+  saturation: 0.6711535193026066
+  rhythmicContrast: 0.7685759442392737
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: MrGross.com
