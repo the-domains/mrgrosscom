@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[MrGross.com]]></title>
         <description><![CDATA[MrGross.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrgrosscom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 07:51:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 07:51:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrgrosscom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
+            <description><![CDATA[<article><h1>Winners of the 2015 iPhone Photography Awards Announced</h1><p>NEW YORK - June 15, 2015 - The iPhone Photography Awards™ (IPPAWARDS) is proud to announce the winners of the 8th Annual Awards. They were selected from thousands of entries submitted by iPhone photographers from 120 countries around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3682134737542db758520dcb5c569d0c5b326f1d.jpg"></article>]]></description>
+            <link>http://www.ippawards.com/2015-iphone-photography-awards-winners-announced/</link>
+            <guid isPermaLink="false">e08425dd-30cd-40e4-abc6-5db8f2e74ba7</guid>
+            <pubDate>Tue, 24 May 2016 07:51:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
+            <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/11/11409572/impossible-project-instant-camera-app-polaroid-format</link>
+            <guid isPermaLink="false">b2dff96e-8df0-4bf5-b4b7-7d3289b635c8</guid>
+            <pubDate>Tue, 24 May 2016 07:51:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2016 heralds beginning of the "megatall" skyscraper era]]></title>
             <description><![CDATA[<article><h1>2016 heralds beginning of the "megatall" skyscraper era</h1><p>The number of skyscrapers over 600 metres high - known as "megatalls" - is set to more than double in the next few years, say experts. Skyscraper authority the Council on Tall Buildings and Urban Habitat (CTBUH) has revealed that the number of 600-metre-plus buildings in the world is set to rise from three to seven in the next five years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc254f102a656394610b9763b92e10cf71a534a.jpg"></article>]]></description>
